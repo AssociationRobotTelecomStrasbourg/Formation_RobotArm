@@ -1,4 +1,4 @@
-# Formation RTS - édition confiné
+# Formation RTS - édition confinée
 ## Arduino base + Bras-robot
 
 ### Inscription Tinkercad
