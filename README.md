@@ -47,7 +47,7 @@ Vous ferez de toute façon parti d'une classe où tout ce que vous ferez sera en
 Vous pourrez retrouver certains montages et codes sur mon profil Tinkercad (un peu vide pour le moment)  
 Pour celà, dans votre "dashboard" cliquez tout en haut à droite à côté de votre logo de profil sur la loupe. Tapez "Annaïg", sélectionnez l'onglet "Personnes" et cliquez sur le profil qui s'affiche. Sous l'onglet "Circuits" vous pourrez avoir acccès aux montages. 
 
-Malheureusement, il n'y a pas d'encodeur sur Tinkercad, pour en simuler de quoi bouger votre curseur sur un écran, vous pouvez utiliser des boutons ou un potentiomètre. Pour ce qui est de l'écran LCD i2C, il n'y a pas de module I2C disponible, tous les branchements seront à faire à la main (pas de problèmes ! le montage est déjà disponible si vous fouillez un peu dans les menus déroulants.) Le code d'initialisation ne sera pas tout à fait le même non plus car nous ne pouvons pas utiliser la librairie "Wire.h", mais vous pouvez vous baser sur celui du montage déjà disponible.
+Malheureusement, il n'y a pas d'encodeur sur Tinkercad, pour simuler de quoi bouger votre curseur sur un écran, vous pouvez utiliser des boutons ou un potentiomètre. Pour ce qui est de l'écran LCD i2C, il n'y a pas de module i2c disponible, tous les branchements seront à faire à la main (pas de problème ! Le montage est déjà disponible si vous fouillez un peu dans les menus déroulants). Le code d'initialisation ne sera pas tout à fait le même non plus car nous ne pouvons pas utiliser la librairie "Wire.h", mais vous pouvez vous baser sur celui du montage déjà disponible.
 
 # Amusez-vous ! 
 
