@@ -18,12 +18,12 @@ Vous ferez de toute façon parti d'une classe où tout ce que vous ferez sera en
   - [ ] Suivez simplement la procédure
   - [ ] Aller sur votre "dashboard" (il suffit une fois conencter de cliquer sur le logo en haut à gauche de la page)
   - [ ] Puis cliquez dans la colonne de gauche sur "Rejoindre la classe" (écrit en vert)
-  - [ ] Rentrez tout simplement le code
+  - [ ] Rentrez tout simplement le code "TC2G-1TSS-55M3"
 
 #### 2- Utilisation sans s'inscrire
   - [ ] Cliquez sur "Rejoindre maintenant" en haut à droite de la page
   - [ ] "Etudiants, rejoignez un cours"
-  - [ ] Le code de la salle est le suivant "3GB1-EM7C-UBE8"
+  - [ ] Le code de la salle est le suivant "TC2G-1TSS-55M3"
   - [ ] Cliquez sur "Rejoindre avec le surnom"
   - [ ] Rentrer le surnom qu'un membre RTS vous donnera au moment de la formation
   - [ ] Vous avez maintenant accès à un espace personnel, pas de crainte, tout ce que vous ferez s'enregistrera automatiquement tant que vous faites parti de la classe.
